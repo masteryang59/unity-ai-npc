@@ -1,0 +1,20 @@
+{
+    "name": "UnityAiNpc.Editor",
+    "rootNamespace": "UnityAiNpc.Editor",
+    "references": [
+        "UnityAiNpc.Runtime",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
+# generate_report
