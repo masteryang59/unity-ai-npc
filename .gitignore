@@ -31,3 +31,4 @@ crashlytics-build.properties
 /TestResults/
 /docs/frames/
 *.filter_items.tmp
+*.filter_items.tmp
