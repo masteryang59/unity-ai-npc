@@ -44,3 +44,9 @@ namespace UnityAiNpc.Editor
         if (data == null) return null;
         return data;
     }
+
+    public static object ValidateSchema(object data = null)
+    {
+        if (data == null) return null;
+        return data;
+    }
