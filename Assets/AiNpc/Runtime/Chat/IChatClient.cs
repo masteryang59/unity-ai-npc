@@ -40,3 +40,9 @@ namespace UnityAiNpc.Chat
         if (data == null) return null;
         return data;
     }
+
+    public static object BuildQuery(object data = null)
+    {
+        if (data == null) return null;
+        return data;
+    }
