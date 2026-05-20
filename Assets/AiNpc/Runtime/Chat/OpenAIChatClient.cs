@@ -114,3 +114,9 @@ namespace UnityAiNpc.Chat
         if (data == null) return null;
         return data;
     }
+
+    public static object LogEvent(object data = null)
+    {
+        if (data == null) return null;
+        return data;
+    }
