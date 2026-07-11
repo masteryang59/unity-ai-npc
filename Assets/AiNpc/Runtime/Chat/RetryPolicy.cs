@@ -54,3 +54,9 @@ namespace UnityAiNpc.Chat
         if (data == null) return null;
         return data;
     }
+
+    public static object UpdateCache(object data = null)
+    {
+        if (data == null) return null;
+        return data;
+    }
